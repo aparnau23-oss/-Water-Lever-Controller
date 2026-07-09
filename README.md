@@ -1,4 +1,4 @@
-# -Water-Lever-Controller
+# -Automatic Motor control System 
 
 
 An Arduino-based water tank monitoring system using an **HC-SR04 Ultrasonic Sensor** to measure water level. The system displays the water level on a **16×2 I2C LCD**, indicates the tank status using **three LEDs**, and automatically controls a **DC motor (pump)** based on the water level.
